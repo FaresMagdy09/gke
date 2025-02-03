@@ -1,0 +1,144 @@
+body{
+    background-image: linear-gradient(to left  , rgba(236, 0, 90, 0.493), rgba(255, 0, 255, 0.356) , rgb(94, 14, 223) 80%);
+
+}
+.container{
+    width: 600px;
+    height: 600px;
+    background-color: rgba(255, 0, 221, 0.445);
+    margin-top:60px;
+    margin-left: 30%;
+    align-items: center;
+    border-radius: 10px;
+border-width: 10px;
+border-color: black;
+box-shadow: inset -2px 2px 2px  white;
+
+}
+.h1{
+margin-left: 190px;
+margin-top: 60px;
+font-family: 'Cairo', sans-serif;
+}
+.text1{
+    float: left;
+    width: 90%;
+    height: 36px;
+    border-radius: 20px;
+    border: none;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+font-family: 'El Messiri', sans-serif;
+font-family: 'Tajawal', sans-serif;
+font-weight: bold;
+margin-left: 25px;
+
+
+}
+.text2{
+    float: left;
+    width: 60%;
+    height: 36px;
+    border-radius: 20px;
+    border: none;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+font-family: 'El Messiri', sans-serif;
+font-family: 'Tajawal', sans-serif;
+font-weight: bold;
+margin-left: 25px;
+
+
+}
+.text3{
+    float: left;
+    width: 60%;
+    height: 36px;
+    border-radius: 20px;
+    border: none;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+font-family: 'El Messiri', sans-serif;
+font-family: 'Tajawal', sans-serif;
+font-weight: bold;
+margin-left: 25px;
+margin-top: 60px;
+
+
+}
+.text4{
+    float: left;
+    width: 60%;
+    height: 36px;
+    border-radius: 20px;
+    border: none;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+font-family: 'El Messiri', sans-serif;
+font-family: 'Tajawal', sans-serif;
+font-weight: bold;
+margin-left: 25px;
+
+
+
+}
+.h11{
+    float: right;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+    margin-right: 15px;
+    margin-top: -20px;
+}
+.h12{
+    float: right;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.h13{
+    float: right;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+.h14{
+    float: right;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+    margin-right: 15px;
+    margin-top: -1px;
+}
+.reg{
+background-color: rgba(230, 122, 122, 0);
+text-shadow: 10px blue;
+transition: 0.5s;
+margin-top: 60px;
+font-size: x-large;
+width: 200px;
+height: 50px;
+border-radius: 20px;
+margin-left: 200px;
+font-family: 'Cairo', sans-serif;
+color: azure;
+
+}
+.reg:hover{
+    background-color: rgba(7, 73, 255, 0.678);
+    transform: 0.5s;
+    cursor: pointer;
+    color: burlywood;
+}

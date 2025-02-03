@@ -1,0 +1,233 @@
+body{
+    background-image: linear-gradient(to left  , rgb(254 222 90), rgba(0, 128, 0, 0.356) , rgb(14 193 223) 80%);
+    padding: 0;
+
+  }
+  
+  
+  header {
+    color: #e00e0ec0;
+    text-align:left ;
+    box-sizing: 10px;
+    height: 100px;
+    background-color: rgba(181, 21, 187, 0.521);    
+    transition: 1s;
+    margin: -8px;
+      }
+     header:hover{
+      background-color: rgba(216, 137, 226, 0.521);
+  transform: 1s;
+
+      }
+      .de{
+        margin-bottom: 20px;
+        border-radius: 20px;
+        border-width: 1px;
+        background-color: rgba(60, 53, 165, 0);
+        color: bisque;
+        width: 100px;
+  
+        
+      }
+      .de:hover{
+        background-color: mediumspringgreen;
+        width: 100px;
+        color: #918d8d;
+        transition: 0.5s;
+      }
+    
+    header img {
+        width: 320px;
+        height: auto;
+    border-radius: 25px;
+        margin: 19 auto;
+        margin-left: 470px;
+        margin-top:20px;
+        margin-bottom: -50px;
+        display: inline-block;
+        margin-right:300px;
+    }
+    
+    
+    .inline-container {
+      display: flex;
+      align-items: center;
+    }
+    nav li {
+      display: inline-block;
+      margin-left: 20px;
+    }
+    
+
+    
+
+
+    .nav{
+        background-color: rgba(216, 105, 15, 0.363);
+        float: right;
+        width:270px;
+        height:550px;
+        margin-top: 15px;
+        border-radius: 25px 25px 0px 0px;
+        margin-left: 15px;
+    }
+    .ty{
+        width: 250px;
+        height: 53px;
+        margin-left: 10px;
+        margin-top: 20px;
+        background-color:rgba(255, 0, 0, 0);
+        font-size: 30px;
+        font-family: 'Cairo', sans-serif;
+        font-family: 'El Messiri', sans-serif;
+        font-family: 'Readex Pro', sans-serif;
+        font-family: 'Tajawal', sans-serif;
+        border: none;
+        border-radius: 20px;
+        transition: 1s;
+        color: rgba(20, 4, 77, 0.445);
+        display: block;
+
+
+    }
+    
+    .container {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: flerow;
+            margin-top: 30px;
+
+    }
+    
+    .lesson {
+      width: 285px;
+      text-align: center;
+      background-color: none;
+      padding: 10px;
+      margin: 5px;
+      cursor: pointer;
+      font-family: 'Cairo', sans-serif;
+      font-family: 'El Messiri', sans-serif;
+      font-family: 'Readex Pro', sans-serif;
+      font-family: 'Tajawal', sans-serif;
+      font-size: large;
+      transition: 0.5s;
+      background-color: #ff18189a;
+      border-radius: 5px;
+    }
+    
+    .lesson:active {
+      background-color: black;
+      color: white;
+      cursor: pointer;
+
+    }
+    .lesson:hover{
+      box-shadow: 0 0 10px #000;
+      transform: 0.5s;
+
+    }
+    .lesso {
+      width: 270px;
+      text-align: center;
+      background-color: none;
+      padding: 10px;
+      margin: 5px;
+      cursor: pointer;
+      font-family: GE Dinkum;
+      font-size: large;
+      transition: 0.5s;
+      background-color: #ff18189a;
+      border-radius: 5px;
+    }
+    
+    .lesso:active {
+      background-color: black;
+      color: white;
+      cursor: pointer;
+
+    }
+    .lesso:hover{
+      box-shadow: 0 0 10px #000;
+      transform: 0.5s;
+
+    }
+    .videos{
+      margin-top: 30px;
+      margin-left: 80px;
+    }
+    
+    .vr{
+      font-size: 25px;
+      font-family: 'Aref Ruqaa', serif;
+      background-color: rgb(0, 0, 255);
+      color: azure;
+      width: 90px;
+      height: 40px;
+      border-radius: 20px;
+      float: left;
+        font-style: bold;
+        transition: 0.5s;
+        border: none; 
+        box-shadow: #000;
+        margin-top: 475px;
+        margin-left: -798px;
+
+    }
+    .vr:hover{
+      background-color: aqua;
+      color: #000;
+      transform: 0.5s;
+      cursor: pointer;
+    }
+    .ve{
+      font-size: 25px;
+      font-family: 'Aref Ruqaa', serif;
+      background-color: rgb(0, 0, 255);
+      color: azure;
+      width: 180px;
+      height: 40px;
+      border-radius: 20px;
+      float: left;
+        font-style: bold;
+        transition: 0.5s;
+        border: none; 
+        box-shadow: #000;
+        margin-top: 475px;
+        margin-left: -1331px;
+
+    }
+    .ve:hover{
+      background-color: aqua;
+      color: #000;
+      transform: 0.5s;
+      cursor: pointer;
+    }
+    .video1{
+      margin-left: -920px;
+    }
+    .gh{
+      margin-top: -416px;
+    }
+
+  .io {
+     margin-right:-90px;
+      width:330px;
+      height: 540px;
+      background-color: #004aad;
+      color: white;
+      overflow: auto;
+      border-radius: 10px;
+      align-items: center;
+    }
+    .logo{
+      width: 100px;
+      height: 100px;
+     margin: auto;
+     margin-left: 110px;
+    }
+   
+
+ 
+    
+    
